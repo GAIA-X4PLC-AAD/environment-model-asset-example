@@ -55,17 +55,46 @@
           "@type": "xsd:anyURI"
         },
         "general:type": "Document"
+      },
+      "general:media": {
+        "@type": "general:Link",
+        "general:url": {
+          "@value": "https://github.com/GAIA-X4PLC-AAD/environment-model-asset-example/blob/main/visualization/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_Trian3DBuilder_01.png",
+          "@type": "xsd:anyURI"
+        },
+        "general:type": "Image"
+      },
+      "general:media": {
+        "@type": "general:Link",
+        "general:url": {
+          "@value": "https://github.com/GAIA-X4PLC-AAD/environment-model-asset-example/blob/main/visualization/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_Unreal01.png",
+          "@type": "xsd:anyURI"
+        },
+        "general:type": "Image"
+      },
+      "general:media": {
+        "@type": "general:Link",
+        "general:url": {
+          "@value": "https://github.com/GAIA-X4PLC-AAD/environment-model-asset-example/blob/main/visualization/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_Unreal02.png",
+          "@type": "xsd:anyURI"
+        },
+        "general:type": "Image"
+      },
+      "general:media": {
+        "@type": "general:Link",
+        "general:url": {
+          "@value": "https://github.com/GAIA-X4PLC-AAD/environment-model-asset-example/blob/main/visualization/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_ODR.kml",
+          "@type": "xsd:anyURI"
+        },
+        "general:type": "Routing"
       }
     },
     "general:bundleData": {
       "@type": "general:BundleData",
       "general:requiredData": {
-        "@type": "general:Link"
-      },
-      "general:relatedData": {
         "@type": "general:Link",
         "general:url": {
-          "@value": "https://github.com/GAIA-X4PLC-AAD/scenario-asset-example/blob/main/Data/scenario_data/ALKS_Scenario_4.4_1_CutInNoCollision_TEMPLATE.xosc",
+          "@value": "https://github.com/GAIA-X4PLC-AAD/hd-map-asset-example/blob/main/data/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_ODR_offset.xodr",
           "@type": "xsd:anyURI"
         },
         "general:type": "Asset"
@@ -73,7 +102,7 @@
       "general:relatedData": {
         "@type": "general:Link",
         "general:url": {
-          "@value": "https://github.com/GAIA-X4PLC-AAD/hd-map-asset-example/blob/main/Data/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_ODR_offset.xodr",
+          "@value": "https://github.com/GAIA-X4PLC-AAD/scenario-asset-example/blob/main/data/scenario_data/ALKS_Scenario_4.4_1_CutInNoCollision_TEMPLATE.xosc",
           "@type": "xsd:anyURI"
         },
         "general:type": "Asset"
@@ -99,7 +128,7 @@
     "@type": "environment-model:Quality",
     "environment-model:detailLevel": "Low",
     "environment-model:textureResolution": {
-      "@value": "0,1",
+      "@value": "0.1",
       "@type": "xsd:float"
     },
     "environment-model:features": {
@@ -132,7 +161,7 @@
   },
   "environment-model:format": {
     "@type": "environment-model:Format",
-    "environment-model:dataType": "OpenSceneGraph OSGB",
+    "environment-model:dataType": "OpenSceneGraph",
     "environment-model:version": {
       "@value": "3.6.5",
       "@type": "xsd:string"
@@ -147,7 +176,7 @@
         "@type": "xsd:string"
       },
       "georeference:state": {
-        "@value": "Lower Saxony",
+        "@value": "DE-NDS",
         "@type": "xsd:string"
       },
       "georeference:region": {
@@ -201,13 +230,5 @@
       },
       "georeference:heightSystem": "Orthometric height"
     }
-  },
-  "general:requiredData": {
-    "@type": "general:Link",
-    "general:url": {
-      "@value": "https://github.com/GAIA-X4PLC-AAD/hd-map-asset-example/blob/main/Data/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_ODR_offset.xodr",
-      "@type": "xsd:anyURI"
-    },
-    "general:type": "Asset"
   }
 }
