@@ -1,6 +1,6 @@
-# 03_rural_area_final
+# Example environmental model for test field Lower Saxony
 
-Terrain with 2000m x 2000m size and 1 x 1 tiles.
+Motorway section of the test field Lower Saxony with 2000x2000m size with 1x1 tiles.
 
 ## Digital Assets
 
