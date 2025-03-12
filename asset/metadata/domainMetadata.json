@@ -27,7 +27,7 @@
     "general:data": {
       "@type": "general:Data",
       "general:size": {
-        "@value": 155.1,
+        "@value": "155.1",
         "@type": "xsd:float"
       },
       "general:recordingTime": {
@@ -39,15 +39,15 @@
   "environment-model:quantity": {
     "@type": "environment-model:Quantity",
     "environment-model:geometryCount": {
-      "@value": 2159,
+      "@value": "2159",
       "@type": "xsd:unsignedInt"
     },
     "environment-model:triangleCount": {
-      "@value": 10681,
+      "@value": "10681",
       "@type": "xsd:unsignedInt"
     },
     "environment-model:textureMaterialCount": {
-      "@value": 25,
+      "@value": "25",
       "@type": "xsd:unsignedInt"
     }
   },
@@ -55,7 +55,7 @@
     "@type": "environment-model:Quality",
     "environment-model:detailLevel": "Low",
     "environment-model:textureResolution": {
-      "@value": 0.1,
+      "@value": "0.1",
       "@type": "xsd:float"
     }
   },
@@ -124,19 +124,19 @@
       "georeference:boundingBox": {
         "@type": "georeference:BoundingBox",
         "georeference:xMin": {
-          "@value": 10.720740862799195,
+          "@value": "10.720740862799195",
           "@type": "xsd:float"
         },
         "georeference:yMin": {
-          "@value": 52.29672229543727,
+          "@value": "52.29672229543727",
           "@type": "xsd:float"
         },
         "georeference:xMax": {
-          "@value": 10.730432209669724,
+          "@value": "10.730432209669724",
           "@type": "xsd:float"
         },
         "georeference:yMax": {
-          "@value": 52.31580272353997,
+          "@value": "52.31580272353997",
           "@type": "xsd:float"
         }
       }
