@@ -1,4 +1,4 @@
-# Example Environmental Model for TestfeldNiedersachsen
+# Testfeld Niedersachsen ALKS 3DModel opt osgb sample
 
 Motorway section of the test field Lower Saxony with 2000x2000m size with 1x1 tiles.
 
