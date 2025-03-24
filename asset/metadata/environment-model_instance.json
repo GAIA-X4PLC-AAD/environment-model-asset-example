@@ -15,7 +15,7 @@
   "environment-model:hasDataResource": {
     "@type": "envited-x:DataResource",
     "gx:name": {
-      "@value": "Example Environmental Model for TestfeldNiedersachsen",
+      "@value": "Testfeld Niedersachsen ALKS 3DModel opt osgb sample",
       "@type": "xsd:string"
     },
     "gx:description": {
