@@ -15,18 +15,18 @@ This sample **`digital asset`** can be downloaded from the [GAIA-X4PLC-AAD/envir
 📁 `asset`
 
 - 📁 `simulation-data`
-  - 📄 `Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb.zip`
+  - 📄 `Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample.zip`
 - 📁 `documentation`
-  - 📄 `Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_TRIANxUNITY_Full_Workflow_Documentation.pdf`
+  - 📄 `Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_TRIANxUNITY_Full_Workflow_Documentation.pdf`
   - 📄 *`assetName_[Name].[ext]`* <i style="color:gray;">(optional)</i>
 - 📁 `metadata`
   - 📄 `environment-model_instance.json`
 - 📁 *`validation-reports`* <i style="color:gray;">(optional)</i>
   - 📄 *`qcReport.txt`* <i style="color:gray;">(optional)</i>
 - 📁 `media`
-  - 📄 `Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_impression-01.png` *-> eyecatcher*
-  - 📄 *`Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_impression-02.png`* *-> impression* <i style="color:gray;">(optional)</i>
-  - 📄 *`Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_impression-03.png`* <i style="color:gray;">(optional)</i>
+  - 📄 `Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_impression-01.png` *-> eyecatcher*
+  - 📄 *`Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_impression-02.png`* *-> impression* <i style="color:gray;">(optional)</i>
+  - 📄 *`Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_impression-03.png`* <i style="color:gray;">(optional)</i>
 - 📄 `README.md`
 - 📄 `manifest_reference.json`
 

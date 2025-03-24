@@ -74,7 +74,7 @@
       "manifest:hasFileMetadata": {
         "@type": "manifest:FileMetadata",
         "manifest:filePath": {
-          "@value": "./simulation-data/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb.zip",
+          "@value": "./simulation-data/Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample.zip",
           "@type": "xsd:anyURI"
         },
         "manifest:fileSize": {
@@ -82,7 +82,7 @@
           "@type": "xsd:integer"
         },
         "manifest:filename": {
-          "@value": "Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb.zip",
+          "@value": "Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample.zip",
           "@type": "xsd:string"
         },
         "manifest:mimeType": {
@@ -108,7 +108,41 @@
       "manifest:hasFileMetadata": {
         "@type": "manifest:FileMetadata",
         "manifest:filePath": {
-          "@value": "./documentation/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_TRIANxUNITY_Full_Workflow_Documentation.pdf",
+          "@value": "./README.md",
+          "@type": "xsd:anyURI"
+        },
+        "manifest:cid": {
+          "@value": "bafkreidyb2nttpuv5sfqc5jlsboop2uam6soj2b7iz4yzwbhehhd3m47wa",
+          "@type": "xsd:string"
+        },
+        "manifest:mimeType": {
+          "@value": "text/markdown",
+          "@type": "xsd:string"
+        },
+        "manifest:fileSize": {
+          "@value": 5481,
+          "@type": "xsd:integer"
+        },
+        "manifest:filename": {
+          "@value": "README.md",
+          "@type": "xsd:string"
+        }
+      }
+    },
+    {
+      "@type": "manifest:Link",
+      "manifest:hasAccessRole": {
+        "@type": "manifest:AccessRole",
+        "@id": "envited-x:isPublic"
+      },
+      "manifest:hasCategory": {
+        "@type": "manifest:Category",
+        "@id": "envited-x:isDocumentation"
+      },
+      "manifest:hasFileMetadata": {
+        "@type": "manifest:FileMetadata",
+        "manifest:filePath": {
+          "@value": "./documentation/Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_TRIANxUNITY_Full_Workflow_Documentation.pdf",
           "@type": "xsd:anyURI"
         },
         "manifest:fileSize": {
@@ -116,7 +150,7 @@
           "@type": "xsd:integer"
         },
         "manifest:filename": {
-          "@value": "Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_TRIANxUNITY_Full_Workflow_Documentation.pdf",
+          "@value": "Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_TRIANxUNITY_Full_Workflow_Documentation.pdf",
           "@type": "xsd:string"
         },
         "manifest:mimeType": {
@@ -164,6 +198,10 @@
         "manifest:mimeType": {
           "@value": "application/ld+json",
           "@type": "xsd:string"
+        },
+        "manifest:cid": {
+          "@value": "bafkreie34hy253632in7dr23tfyb6cnm3oirydu3aj7orbnn6seqqbbbve",
+          "@type": "xsd:string"
         }
       }
     },
@@ -180,7 +218,7 @@
       "manifest:hasFileMetadata": {
         "@type": "manifest:FileMetadata",
         "manifest:filePath": {
-          "@value": "./media/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_impression-01.png",
+          "@value": "./media/Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_impression-01.png",
           "@type": "xsd:anyURI"
         },
         "manifest:fileSize": {
@@ -188,7 +226,7 @@
           "@type": "xsd:integer"
         },
         "manifest:filename": {
-          "@value": "Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_impression-01.png",
+          "@value": "Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_impression-01.png",
           "@type": "xsd:string"
         },
         "manifest:mimeType": {
@@ -210,7 +248,7 @@
       "manifest:hasFileMetadata": {
         "@type": "manifest:FileMetadata",
         "manifest:filePath": {
-          "@value": "./media/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_impression-02.png",
+          "@value": "./media/Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_impression-02.png",
           "@type": "xsd:anyURI"
         },
         "manifest:fileSize": {
@@ -218,7 +256,7 @@
           "@type": "xsd:integer"
         },
         "manifest:filename": {
-          "@value": "Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_impression-02.png",
+          "@value": "Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_impression-02.png",
           "@type": "xsd:string"
         },
         "manifest:mimeType": {
@@ -240,7 +278,7 @@
       "manifest:hasFileMetadata": {
         "@type": "manifest:FileMetadata",
         "manifest:filePath": {
-          "@value": "./media/Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_impression-03.png",
+          "@value": "./media/Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_impression-03.png",
           "@type": "xsd:anyURI"
         },
         "manifest:fileSize": {
@@ -248,7 +286,7 @@
           "@type": "xsd:integer"
         },
         "manifest:filename": {
-          "@value": "Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb_impression-03.png",
+          "@value": "Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample_impression-03.png",
           "@type": "xsd:string"
         },
         "manifest:mimeType": {

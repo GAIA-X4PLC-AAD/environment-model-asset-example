@@ -47,6 +47,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb.zip
-        asset_name: Gaia_X_Example_Asset_TestfeldNiedersachsen_ALKS_3DModel_opt_osgb.zip
+        asset_path: ./Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample.zip
+        asset_name: Testfeld_Niedersachsen_ALKS_3DModel_opt_osgb_sample.zip
         asset_content_type: application/zip
