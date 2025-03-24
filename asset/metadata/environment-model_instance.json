@@ -15,7 +15,7 @@
   "environment-model:hasDataResource": {
     "@type": "envited-x:DataResource",
     "gx:name": {
-      "@value": "Example environmental model for test field Lower Saxony",
+      "@value": "Example Environmental Model for TestfeldNiedersachsen",
       "@type": "xsd:string"
     },
     "gx:description": {
