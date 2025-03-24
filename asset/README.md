@@ -1,4 +1,4 @@
-# Example environmental model for test field Lower Saxony
+# Example Environmental Model for TestfeldNiedersachsen
 
 Motorway section of the test field Lower Saxony with 2000x2000m size with 1x1 tiles.
 
